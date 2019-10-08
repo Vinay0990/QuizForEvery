@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="sample_question">Sample Question</string>
+    <string name="question_status">Question %1$d of %2$d</string>
+    <string name="num_of_guess_description">Show option of 2 or 4 answer option</string>
+    <string name="num_of_guess_title">Number of Guesses</string>
+    <string name="type_of_question_title">Quiz Topic</string>
+    <string name="type_of_question_description">General area where the questions will be focused on</string>
+    <string name="background_colors_description">Choose the backgroud colour of the app</string>
+    <string name="background_colors">Background Colour</string>
+    <string name="text_style_fonts">Font for Quiz text</string>
+    <string name="text_style_fonts_description">Please choose any font of your preference</string>
+    <string name="default_font">Lato-Regular.ttf</string>
+    <string name="begin">Begin</string>
+</resources>

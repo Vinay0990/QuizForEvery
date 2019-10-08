@@ -1,0 +1,83 @@
+[
+  {
+    "no": "1",
+    "question": "In which year did Maradona score a goal with his hand?",
+    "answer": "1986",
+    "opt1": "1990",
+    "opt2": "1986",
+    "opt3": "1980",
+    "opt4": "1970"
+  },
+  {
+    "no": "2",
+    "question": "What is the national sport in Japan?",
+    "answer": "Sumo Wrestling",
+    "opt1": "Cricket",
+    "opt2": "Hockey",
+    "opt3": "Sumo Wrestling",
+    "opt4": "Boxing"
+  },
+  {
+    "no": "3",
+    "question": "How many minutes is a rugby match?",
+    "answer": "80",
+    "opt1": "60",
+    "opt2": "120",
+    "opt3": "80",
+    "opt4": "150"
+  },
+  {
+    "no": "4",
+    "question": "In which country were the first Olympic Games held?",
+    "answer": "Greece",
+    "opt1": "Paris",
+    "opt2": "Italy",
+    "opt3": "Greece",
+    "opt4": "Delhi"
+  },
+  {
+    "no": "5",
+    "question": "How many players are on each side of the net in beach volleyball?",
+    "answer": "two",
+    "opt1": "two",
+    "opt2": "four",
+    "opt3": "six",
+    "opt4": "nine"
+  },
+  {
+    "no": "6",
+    "question": "How matches did Mohammed Ali lose in his career?",
+    "answer": "one",
+    "opt1": "two",
+    "opt2": "four",
+    "opt3": "six",
+    "opt4": "one"
+  },
+  {
+    "no": "7",
+    "question": "How long is an Olympic swimming pool?",
+    "answer": "Fifty meters",
+    "opt1": "Twenty meters",
+    "opt2": "Ten meters",
+    "opt3": "Seventy meters",
+    "opt4": "Fifty meters"
+  },
+  {
+    "no": "8",
+    "question": "At what number does one begin when playing Darts?",
+    "answer": "501",
+    "opt1": "400",
+    "opt2": "99",
+    "opt3": "501",
+    "opt4": "1"
+  },
+  {
+    "no": "9",
+    "question": "Which car won Fernando Alonso his first tittle in Formula 1 with?",
+    "answer": "Renault",
+    "opt1": "Ferrari",
+    "opt2": "Renault",
+    "opt3": "Ford",
+    "opt4": "Toyota"
+  }
+]
